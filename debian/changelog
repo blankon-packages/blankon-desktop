@@ -1,3 +1,9 @@
+blankon-desktop (10.00.43) tambora; urgency=medium
+
+  * Modified debian/control no write xterm
+
+ -- Mahyuddin <syaimif@localhost>  Mon, 25 May 2015 20:26:52 +0700
+
 blankon-desktop (10.00.42) tambora; urgency=medium
 
   * Rebuild 
