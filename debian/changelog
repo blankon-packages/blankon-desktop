@@ -1,3 +1,9 @@
+blankon-desktop (10.00.42) tambora; urgency=medium
+
+  * Rebuild 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Mon, 25 May 2015 20:19:33 +0700
+
 blankon-desktop (10.00.41) tambora; urgency=medium
 
   * Re-add xterm, please don't remove xterm from blankon-desktop if situation
