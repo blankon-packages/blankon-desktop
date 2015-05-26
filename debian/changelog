@@ -1,3 +1,9 @@
+blankon-desktop (10.00.44) tambora; urgency=medium
+
+  * Drop xorg
+
+ -- Mahyuddin <yudi.al@gmail.com>  Tue, 26 May 2015 21:18:49 +0700
+
 blankon-desktop (10.00.43) tambora; urgency=medium
 
   * Modified debian/control no write xterm
