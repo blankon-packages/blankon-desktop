@@ -1,3 +1,9 @@
+blankon-desktop (10.00.45) tambora; urgency=medium
+
+  * Re-add xorg 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 27 May 2015 16:45:10 +0700
+
 blankon-desktop (10.00.44) tambora; urgency=medium
 
   * Drop xorg
