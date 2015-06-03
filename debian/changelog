@@ -1,3 +1,9 @@
+blankon-desktop (10.00.49) tambora; urgency=medium
+
+  * blankon-office drop evolution 
+
+ -- Rahman Yusri Aftian <aftian@localhost>  Wed, 03 Jun 2015 14:59:06 +0700
+
 blankon-desktop (10.00.48) tambora; urgency=low
 
   * blankon-office : Add evolution 
