@@ -1,3 +1,10 @@
+blankon-desktop (10.00.51) tambora; urgency=medium
+
+  * Added libgdm1
+    - This package always use in gnome-control-center user-accounts version 3.16
+
+ -- Mahyuddin <yudi.al@gmail.com>  Tue, 09 Jun 2015 22:30:19 +0700
+
 blankon-desktop (10.00.50) tambora; urgency=medium
 
   * Added plymouth-theme-blankon 
