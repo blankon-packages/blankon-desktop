@@ -1,3 +1,9 @@
+blankon-desktop (10.00.55) tambora; urgency=medium
+
+  * KErnel 4.1.0-2 [amd64] 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 20 Aug 2015 15:11:27 +0700
+
 blankon-desktop (10.00.54) tambora; urgency=medium
 
   * Upgrade kernel to 4.1.0-2 
