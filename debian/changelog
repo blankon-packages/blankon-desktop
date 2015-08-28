@@ -1,3 +1,9 @@
+blankon-desktop (10.00.56) tambora; urgency=medium
+
+  * Kernel 4.1.-2 [i386] 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 28 Aug 2015 08:31:01 +0700
+
 blankon-desktop (10.00.55) tambora; urgency=medium
 
   * KErnel 4.1.0-2 [amd64] 
