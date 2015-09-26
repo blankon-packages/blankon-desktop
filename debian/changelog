@@ -1,3 +1,9 @@
+blankon-desktop (10.00.57) tambora; urgency=medium
+
+  * blankon-office: replace libreoffice-gtk3 with libreoffice-gnome 
+
+ -- mhy <dotovr@mhy>  Sat, 26 Sep 2015 19:21:33 +0700
+
 blankon-desktop (10.00.56) tambora; urgency=medium
 
   * Kernel 4.1.-2 [i386] 
