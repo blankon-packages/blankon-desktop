@@ -1,3 +1,9 @@
+blankon-desktop (10.00.61) tambora; urgency=medium
+
+  * Remove appstream-index from conflicts 
+
+ -- mhy <dotovr@mhy>  Tue, 22 Dec 2015 16:33:13 +0700
+
 blankon-desktop (10.00.60) tambora; urgency=medium
 
   * Added:
