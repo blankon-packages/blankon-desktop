@@ -1,4 +1,4 @@
-blankon-desktop (10.00.64blankon1) tambora; urgency=medium
+blankon-desktop (10.00.65) tambora; urgency=medium
 
   * Replace grilo-plugins-0.2 with grilo-plugins-0.3
   * Drop pantheon-greeter
