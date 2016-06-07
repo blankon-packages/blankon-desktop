@@ -1,3 +1,11 @@
+blankon-desktop (10.00.64blankon1) tambora; urgency=medium
+
+  * Replace grilo-plugins-0.2 with grilo-plugins-0.3
+  * Drop pantheon-greeter
+  * Add lightdm-webkit-greeter and manokwari-theme-greeter
+
+ -- dotovr <dotovr@preko>  Tue, 07 Jun 2016 21:49:51 +0700
+
 blankon-desktop (10.00.64) tambora; urgency=medium
 
   * Change kernel to 4.5.0-2 
