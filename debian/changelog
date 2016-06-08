@@ -1,3 +1,9 @@
+blankon-desktop (10.00.68) tambora; urgency=medium
+
+  * Change Kernel to 4.6.0-1 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 08 Jun 2016 12:10:03 +0700
+
 blankon-desktop (10.00.67) tambora; urgency=medium
 
   * Drop vinagre issue #78
