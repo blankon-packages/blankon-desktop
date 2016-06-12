@@ -1,3 +1,10 @@
+blankon-desktop (10.00.69) tambora; urgency=medium
+
+  * Add locales-all #105
+  * Change chromium to firefox #107
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 12 Jun 2016 23:29:43 +0700
+
 blankon-desktop (10.00.68) tambora; urgency=medium
 
   * Change Kernel to 4.6.0-1 
