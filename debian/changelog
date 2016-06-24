@@ -1,3 +1,9 @@
+blankon-desktop (10.00.76) tambora; urgency=medium
+
+  * Add bromo-theme
+
+ -- Syai Mif <syaimif@di.blankon.in>  Fri, 24 Jun 2016 18:18:21 +0700
+
 blankon-desktop (10.00.75) tambora; urgency=medium
 
   * Add gnome-calendar
