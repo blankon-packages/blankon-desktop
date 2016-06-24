@@ -1,3 +1,9 @@
+blankon-desktop (10.00.77) tambora; urgency=medium
+
+  * Add lsb core
+
+ -- Syai Mif <syaimif@localhost>  Fri, 24 Jun 2016 19:36:06 +0700
+
 blankon-desktop (10.00.76) tambora; urgency=medium
 
   * Add bromo-theme
