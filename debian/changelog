@@ -1,3 +1,9 @@
+blankon-desktop (10.00.78) tambora; urgency=medium
+
+  * Change depends lsb-core to lsb-base 
+
+ -- dotovr <dotovr@preko>  Sat, 25 Jun 2016 23:58:05 +0700
+
 blankon-desktop (10.00.77) tambora; urgency=medium
 
   * Add lsb core
