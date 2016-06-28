@@ -1,3 +1,9 @@
+blankon-desktop (10.00.79) tambora; urgency=medium
+
+  * Replace gnome-calendar with california 
+
+ -- dotovr <dotovr@preko>  Wed, 29 Jun 2016 03:12:44 +0700
+
 blankon-desktop (10.00.78) tambora; urgency=medium
 
   * Change depends lsb-core to lsb-base 
