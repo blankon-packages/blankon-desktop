@@ -1,3 +1,9 @@
+blankon-desktop (10.00.80) tambora; urgency=medium
+
+  * Add appstream-data 
+
+ -- dotovr <dotovr@preko>  Wed, 29 Jun 2016 10:47:24 +0700
+
 blankon-desktop (10.00.79) tambora; urgency=medium
 
   * Replace gnome-calendar with california 
