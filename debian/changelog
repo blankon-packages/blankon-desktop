@@ -1,3 +1,10 @@
+blankon-desktop (10.00.83) tambora; urgency=medium
+
+  * Add dbus-user-session
+    - Fix issue after logout cannot login again 
+
+ -- dotovr <dotovr@preko>  Sun, 03 Jul 2016 02:27:13 +0700
+
 blankon-desktop (10.00.82) tambora; urgency=medium
 
   * Add tebu-flat-icon-theme 
