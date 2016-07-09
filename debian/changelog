@@ -1,3 +1,9 @@
+blankon-desktop (10.00.88) tambora; urgency=medium
+
+  * Change appcenter with gnome-software
+
+ -- Syai Mif <syaimif@localhost>  Sat, 09 Jul 2016 19:31:22 +0700
+
 blankon-desktop (10.00.87) tambora; urgency=medium
 
   * Add scim-blankon-configuration
