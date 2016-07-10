@@ -1,3 +1,9 @@
+blankon-desktop (10.00.80) tambora; urgency=medium
+
+  * Dropxfc4-power-manager 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 10 Jul 2016 10:55:31 +0700
+
 blankon-desktop (10.00.88) tambora; urgency=medium
 
   * Change appcenter with gnome-software
