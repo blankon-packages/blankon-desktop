@@ -1,3 +1,10 @@
+blankon-desktop (10.00.90) tambora; urgency=medium
+
+  * Drop scim-blankon-configuration
+  * Add scim-gtk-immodule
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 13 Jul 2016 07:59:21 +0700
+
 blankon-desktop (10.00.89) tambora; urgency=medium
 
   * Dropxfc4-power-manager 
