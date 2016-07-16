@@ -1,3 +1,9 @@
+blankon-desktop (10.00.91) tambora; urgency=medium
+
+  * Add fontconfig-infinality
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 16 Jul 2016 09:17:00 +0700
+
 blankon-desktop (10.00.90) tambora; urgency=medium
 
   * Drop scim-blankon-configuration
