@@ -41,3 +41,12 @@ Description: The BlankOn Graphics Suite
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+
+Package: blankon-desktop-divert
+Architecture: all
+Depends: gnome-sessions-divert, gnome-wayland-divert, lightdm-xsessions-divert
+Description: The BlankOn Sessions Suite
+ This package depends on all of the packages in the BlankOn Session Suite
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.

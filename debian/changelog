@@ -1,3 +1,9 @@
+blankon-desktop (10.00.92) tambora; urgency=medium
+
+  * Added blankon-desktop-divert
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 19 Jul 2016 23:33:40 +0700
+
 blankon-desktop (10.00.91) tambora; urgency=medium
 
   * Add fontconfig-infinality
