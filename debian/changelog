@@ -1,3 +1,9 @@
+blankon-desktop (10.00.93) tambora; urgency=medium
+
+  * Remove depends blankon-desktop-divert
+
+ -- Mijortsa <mijortsa@icik2.blankon.in>  Wed, 20 Jul 2016 13:05:48 +0700
+
 blankon-desktop (10.00.92) tambora; urgency=medium
 
   * Added blankon-desktop-divert
