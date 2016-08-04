@@ -1,3 +1,9 @@
+blankon-desktop (10.00.96) tambora; urgency=medium
+
+  * blankon-media=any 
+
+ -- Rahman Yusri Aftian <aftian@blankon.id>  Thu, 04 Aug 2016 21:13:36 +0700
+
 blankon-desktop (10.00.95) tambora; urgency=medium
 
   * Add blankon-media 

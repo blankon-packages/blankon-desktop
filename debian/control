@@ -43,7 +43,7 @@ Description: The BlankOn Graphics Suite
  it not be removed.
 
 Package: blankon-media
-Architecture: all
+Architecture: any
 Depends: w32codecs [i386],  pulseaudio, pulseaudio-module-gconf, pulseaudio-module-x11, pulseaudio-module-bluetooth, vlc, audacious, gnome-codec-install, cheese, 
 Description: The BlankOn Media Suite
  This package depends on all of the packages in the BlankOn Media Suite
