@@ -1,3 +1,10 @@
+blankon-desktop (10.00.97) tambora; urgency=medium
+
+  * add dependencies xserver-fbdev, xserver-xorg-video-all
+  * change arch to any
+
+ -- Haris <haris@blankon.id>  Sun, 28 Aug 2016 11:39:34 +0700
+
 blankon-desktop (10.00.96) tambora; urgency=medium
 
   * blankon-media=any 
