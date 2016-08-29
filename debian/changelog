@@ -1,3 +1,9 @@
+blankon-desktop (10.00.98) tambora; urgency=medium
+
+  * Fix typo package name xserver-fbdev
+
+ -- Mahyuddin <yudi.al@gmail.com>  Mon, 29 Aug 2016 13:49:39 +0700
+
 blankon-desktop (10.00.97) tambora; urgency=medium
 
   * add dependencies xserver-fbdev, xserver-xorg-video-all
@@ -7,13 +13,13 @@ blankon-desktop (10.00.97) tambora; urgency=medium
 
 blankon-desktop (10.00.96) tambora; urgency=medium
 
-  * blankon-media=any 
+  * blankon-media=any
 
  -- Rahman Yusri Aftian <aftian@blankon.id>  Thu, 04 Aug 2016 21:13:36 +0700
 
 blankon-desktop (10.00.95) tambora; urgency=medium
 
-  * Add blankon-media 
+  * Add blankon-media
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 04 Aug 2016 21:11:05 +0700
 
@@ -50,7 +56,7 @@ blankon-desktop (10.00.90) tambora; urgency=medium
 
 blankon-desktop (10.00.89) tambora; urgency=medium
 
-  * Dropxfc4-power-manager 
+  * Dropxfc4-power-manager
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 10 Jul 2016 10:55:31 +0700
 
@@ -81,44 +87,44 @@ blankon-desktop (10.00.85) tambora; urgency=medium
 
 blankon-desktop (10.00.84) tambora; urgency=medium
 
-  * Add watchdog 
+  * Add watchdog
 
  -- dotovr <dotovr@preko>  Tue, 05 Jul 2016 04:56:12 +0700
 
 blankon-desktop (10.00.83) tambora; urgency=medium
 
   * Add dbus-user-session
-    - Fix issue after logout cannot login again 
+    - Fix issue after logout cannot login again
 
  -- dotovr <dotovr@preko>  Sun, 03 Jul 2016 02:27:13 +0700
 
 blankon-desktop (10.00.82) tambora; urgency=medium
 
-  * Add tebu-flat-icon-theme 
+  * Add tebu-flat-icon-theme
 
  -- dotovr <dotovr@preko>  Sat, 02 Jul 2016 05:12:09 +0700
 
 blankon-desktop (10.00.81) tambora; urgency=medium
 
-  * Replace gnome-software dengan synaptic 
+  * Replace gnome-software dengan synaptic
 
  -- dotovr <dotovr@preko>  Fri, 01 Jul 2016 05:05:27 +0700
 
 blankon-desktop (10.00.80) tambora; urgency=medium
 
-  * Add appstream-data 
+  * Add appstream-data
 
  -- dotovr <dotovr@preko>  Wed, 29 Jun 2016 10:47:24 +0700
 
 blankon-desktop (10.00.79) tambora; urgency=medium
 
-  * Replace gnome-calendar with california 
+  * Replace gnome-calendar with california
 
  -- dotovr <dotovr@preko>  Wed, 29 Jun 2016 03:12:44 +0700
 
 blankon-desktop (10.00.78) tambora; urgency=medium
 
-  * Change depends lsb-core to lsb-base 
+  * Change depends lsb-core to lsb-base
 
  -- dotovr <dotovr@preko>  Sat, 25 Jun 2016 23:58:05 +0700
 
@@ -142,7 +148,7 @@ blankon-desktop (10.00.75) tambora; urgency=medium
 
 blankon-desktop (10.00.74) tambora; urgency=medium
 
-  * Add conflicts desktop-base 
+  * Add conflicts desktop-base
 
  -- dotovr <dotovr@preko>  Fri, 17 Jun 2016 03:39:47 +0700
 
@@ -154,19 +160,19 @@ blankon-desktop (10.00.73) tambora; urgency=medium
 
 blankon-desktop (10.00.72) tambora; urgency=medium
 
-  * Drop update-notifier 
+  * Drop update-notifier
 
  -- dotovr <dotovr@preko>  Thu, 16 Jun 2016 13:52:48 +0700
 
 blankon-desktop (10.00.71) tambora; urgency=medium
 
-  * Drop xinit 
+  * Drop xinit
 
  -- dotovr <dotovr@preko>  Thu, 16 Jun 2016 04:39:55 +0700
 
 blankon-desktop (10.00.70) tambora; urgency=medium
 
-  * Add conflicts im-config 
+  * Add conflicts im-config
 
  -- dotovr <dotovr@preko>  Thu, 16 Jun 2016 04:14:33 +0700
 
@@ -179,7 +185,7 @@ blankon-desktop (10.00.69) tambora; urgency=medium
 
 blankon-desktop (10.00.68) tambora; urgency=medium
 
-  * Change Kernel to 4.6.0-1 
+  * Change Kernel to 4.6.0-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 08 Jun 2016 12:10:03 +0700
 
@@ -208,25 +214,25 @@ blankon-desktop (10.00.65) tambora; urgency=medium
 
 blankon-desktop (10.00.64) tambora; urgency=medium
 
-  * Change kernel to 4.5.0-2 
+  * Change kernel to 4.5.0-2
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 06 Jun 2016 10:02:37 +0700
 
 blankon-desktop (10.00.63) tambora; urgency=medium
 
-  * Change Kernel 4.4.0-1 
+  * Change Kernel 4.4.0-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 23 Feb 2016 10:06:45 +0700
 
 blankon-desktop (10.00.62) tambora; urgency=medium
 
-  * Change kernel 4.3.0-1 
+  * Change kernel 4.3.0-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 02 Jan 2016 16:30:20 +0700
 
 blankon-desktop (10.00.61) tambora; urgency=medium
 
-  * Remove appstream-index from conflicts 
+  * Remove appstream-index from conflicts
 
  -- mhy <dotovr@mhy>  Tue, 22 Dec 2015 16:33:13 +0700
 
@@ -247,31 +253,31 @@ blankon-desktop (10.00.59) tambora; urgency=medium
 
 blankon-desktop (10.00.58) tambora; urgency=medium
 
-  * kernel 4.2.0-1 
+  * kernel 4.2.0-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 30 Sep 2015 09:38:12 +0700
 
 blankon-desktop (10.00.57) tambora; urgency=medium
 
-  * blankon-office: replace libreoffice-gtk3 with libreoffice-gnome 
+  * blankon-office: replace libreoffice-gtk3 with libreoffice-gnome
 
  -- mhy <dotovr@mhy>  Sat, 26 Sep 2015 19:21:33 +0700
 
 blankon-desktop (10.00.56) tambora; urgency=medium
 
-  * Kernel 4.1.-2 [i386] 
+  * Kernel 4.1.-2 [i386]
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 28 Aug 2015 08:31:01 +0700
 
 blankon-desktop (10.00.55) tambora; urgency=medium
 
-  * KErnel 4.1.0-2 [amd64] 
+  * KErnel 4.1.0-2 [amd64]
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 20 Aug 2015 15:11:27 +0700
 
 blankon-desktop (10.00.54) tambora; urgency=medium
 
-  * Upgrade kernel to 4.1.0-2 
+  * Upgrade kernel to 4.1.0-2
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 18 Aug 2015 22:44:13 +0700
 
@@ -283,7 +289,7 @@ blankon-desktop (10.00.53) tambora; urgency=medium
 
 blankon-desktop (10.00.52) tambora; urgency=low
 
-  * blankon-kernel-headers: Changes Kernel to 4.0.0-2 
+  * blankon-kernel-headers: Changes Kernel to 4.0.0-2
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 18 Jun 2015 17:54:55 +0700
 
@@ -296,37 +302,37 @@ blankon-desktop (10.00.51) tambora; urgency=medium
 
 blankon-desktop (10.00.50) tambora; urgency=medium
 
-  * Added plymouth-theme-blankon 
+  * Added plymouth-theme-blankon
 
  -- Mahyuddin <yudi.al@gmail.com>  Sun, 07 Jun 2015 10:28:57 +0700
 
 blankon-desktop (10.00.49) tambora; urgency=medium
 
-  * blankon-office drop evolution 
+  * blankon-office drop evolution
 
  -- Rahman Yusri Aftian <aftian@localhost>  Wed, 03 Jun 2015 14:59:06 +0700
 
 blankon-desktop (10.00.48) tambora; urgency=low
 
-  * blankon-office : Add evolution 
+  * blankon-office : Add evolution
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 03 Jun 2015 10:10:47 +0700
 
 blankon-desktop (10.00.47) tambora; urgency=medium
 
-  * Added geary 
+  * Added geary
 
  -- Mahyuddin <yudi.al@gmail.com>  Fri, 29 May 2015 11:14:16 +0700
 
 blankon-desktop (10.00.46) tambora; urgency=medium
 
-  * Added blankon-avatar 
+  * Added blankon-avatar
 
  -- Mahyuddin <yudi.al@gmail.com>  Thu, 28 May 2015 18:31:26 +0700
 
 blankon-desktop (10.00.45) tambora; urgency=medium
 
-  * Re-add xorg 
+  * Re-add xorg
 
  -- Mahyuddin <yudi.al@gmail.com>  Wed, 27 May 2015 16:45:10 +0700
 
@@ -344,7 +350,7 @@ blankon-desktop (10.00.43) tambora; urgency=medium
 
 blankon-desktop (10.00.42) tambora; urgency=medium
 
-  * Rebuild 
+  * Rebuild
 
  -- Mahyuddin <yudi.al@gmail.com>  Mon, 25 May 2015 20:19:33 +0700
 
@@ -372,23 +378,23 @@ blankon-desktop (10.00.39) tambora; urgency=low
 
 blankon-desktop (10.00.38) tambora; urgency=low
 
-  * Added pantheon-greeter 
+  * Added pantheon-greeter
 
  -- Mahyuddin <yudi.al@gmail.com>  Tue, 19 May 2015 17:02:48 +0700
 
 blankon-desktop (10.00.37) tambora; urgency=low
 
-  * Add 
+  * Add
     -  ntfs-3g
-    -  ntfsprogs 
+    -  ntfsprogs
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 19 May 2015 05:49:35 +0700
 
 blankon-desktop (10.00.36) tambora; urgency=low
 
-  * Drop Temporary Please Add again if fix dependency 
+  * Drop Temporary Please Add again if fix dependency
     - ntfs-3g
-    -  ntfsprogs 
+    -  ntfsprogs
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 19 May 2015 05:23:47 +0700
 
@@ -400,7 +406,7 @@ blankon-desktop (10.00.35) tambora; urgency=medium
 
 blankon-desktop (10.00.34) tambora; urgency=low
 
-  * Drop to kernel linux-image-3.16.0-4 
+  * Drop to kernel linux-image-3.16.0-4
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 19 May 2015 03:48:05 +0700
 
@@ -422,7 +428,7 @@ blankon-desktop (10.00.32) tambora; urgency=medium
 
 blankon-desktop (10.00.31) tambora; urgency=low
 
-  * Drop blankon-symlink 
+  * Drop blankon-symlink
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 17 May 2015 05:27:47 +0700
 
@@ -435,19 +441,19 @@ blankon-desktop (10.00.30) tambora; urgency=low
 
 blankon-desktop (10.00.29) tambora; urgency=low
 
-  * Change to kernel 4.0.0-1 
+  * Change to kernel 4.0.0-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 13 May 2015 06:51:03 +0700
 
 blankon-desktop (10.00.28) tambora; urgency=low
 
-  * Added xterm 
+  * Added xterm
 
  -- Mahyuddin <yudi.al@gmail.com>  Sat, 25 Apr 2015 17:43:10 +0700
 
 blankon-desktop (10.00.27) tambora; urgency=low
 
-  * Added: Tebu icon theme 
+  * Added: Tebu icon theme
 
  -- Mahyuddin <yudi.al@gmail.com>  Thu, 26 Mar 2015 10:16:44 +0700
 
@@ -478,7 +484,7 @@ blankon-desktop (10.00.23) tambora; urgency=medium
 
 blankon-desktop (10.00.22) tambora; urgency=medium
 
-  * Drop gnome-contacts 
+  * Drop gnome-contacts
 
  -- Mahyuddin <yudi.al@gmail.com>  Mon, 09 Feb 2015 11:50:55 +0700
 
@@ -496,13 +502,13 @@ blankon-desktop (10.00.20) tambora; urgency=low
 
 blankon-desktop (10.00.19) tambora; urgency=low
 
-  * Chanes kernel to 3.16.0-4 
+  * Chanes kernel to 3.16.0-4
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 11 Nov 2014 22:42:32 +0000
 
 blankon-desktop (10.00.18) tambora; urgency=low
 
-  * Changes to kernel 3.16-4 
+  * Changes to kernel 3.16-4
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 11 Nov 2014 14:32:58 +0000
 
@@ -538,19 +544,19 @@ blankon-desktop (10.00.13) tambora; urgency=medium
 
 blankon-desktop (10.00.12) tambora; urgency=medium
 
-  * Upgrade Kerenel to 3.16-1 
+  * Upgrade Kerenel to 3.16-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 10 Sep 2014 11:25:50 +0700
 
 blankon-desktop (10.00.11) tambora; urgency=medium
 
-  * Upgrade kernel to 3.14-2 
+  * Upgrade kernel to 3.14-2
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 27 Jul 2014 04:45:08 +0700
 
 blankon-desktop (10.00.10) tambora; urgency=low
 
-  * Add: blankon-keyring 
+  * Add: blankon-keyring
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 06 Jun 2014 12:34:11 +0000
 
@@ -563,33 +569,33 @@ blankon-desktop (10.00.09) tambora; urgency=low
 blankon-desktop (10.00.08) tambora; urgency=low
 
   * blankon-desktop add gnome-contacts, volumeicon-alsa
-  
+
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 10 May 2014 21:08:26 +0700
 
 blankon-desktop (10.00.07) tambora; urgency=low
 
-  * DROP gnome-contacts, evolution, volumeicon-alsa (Temporary) 
+  * DROP gnome-contacts, evolution, volumeicon-alsa (Temporary)
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 08 May 2014 14:06:28 +0000
 
 blankon-desktop (10.00.06) tambora; urgency=low
 
-  * BUMP Kernel to 3.14-1 
+  * BUMP Kernel to 3.14-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 01 May 2014 06:37:55 +0000
 
 blankon-desktop (10.00.05) tambora; urgency=low
 
-  * Conflicts: libgjs0c 
+  * Conflicts: libgjs0c
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 04 Apr 2014 14:36:47 +0700
 
 blankon-desktop (10.00.04) tambora; urgency=medium
 
-  * Added 
-    - libcanberra-gtk-module 
-    - libcanberra-gtk3-module 
-    - libcanberra-pulse 
+  * Added
+    - libcanberra-gtk-module
+    - libcanberra-gtk3-module
+    - libcanberra-pulse
     - sound-theme-freedesktop
 
  -- Azis Ws <azis.astrojim@surabaya.di.blankon.in>  Tue, 01 Apr 2014 03:30:25 +0000
@@ -633,7 +639,7 @@ blankon-desktop (9.00.88) suroboyo; urgency=low
 
 blankon-desktop (9.00.87) suroboyo; urgency=low
 
-  * Drop xserver-common, xserver-xorg, xserver-xorg-core, xserver-xorg-input-all 
+  * Drop xserver-common, xserver-xorg, xserver-xorg-core, xserver-xorg-input-all
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 08 Feb 2014 20:28:44 +0700
 
@@ -646,7 +652,7 @@ blankon-desktop (9.00.86) suroboyo; urgency=low
 
 blankon-desktop (9.00.85) suroboyo; urgency=low
 
-  * Drop policykit 
+  * Drop policykit
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 06 Feb 2014 12:15:06 +0700
 
@@ -696,7 +702,7 @@ blankon-desktop (9.00.78) suroboyo; urgency=low
 
 blankon-desktop (9.00.77) suroboyo; urgency=low
 
-  * Add xserver-xorg-video-nvidia 
+  * Add xserver-xorg-video-nvidia
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 21 Jan 2014 08:14:31 +0700
 
@@ -715,7 +721,7 @@ blankon-desktop (9.00.74) suroboyo; urgency=low
 
 blankon-desktop (9.00.73) suroboyo; urgency=low
 
-  * Drop broadcom-sta-source install from pabrik-cd (#1387) 
+  * Drop broadcom-sta-source install from pabrik-cd (#1387)
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 05 Jan 2014 19:59:57 +0700
 
@@ -727,7 +733,7 @@ blankon-desktop (9.00.72) suroboyo; urgency=low
 
 blankon-desktop (9.00.71) suroboyo; urgency=low
 
-  * Add  libpam-systemd 
+  * Add  libpam-systemd
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 30 Dec 2013 08:51:59 +0700
 
@@ -739,7 +745,7 @@ blankon-desktop (9.00.70) suroboyo; urgency=medium
 
 blankon-desktop (9.00.69) suroboyo; urgency=low
 
-  * Add iamerican 
+  * Add iamerican
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 24 Dec 2013 17:31:19 +0700
 
@@ -757,7 +763,7 @@ blankon-desktop (9.00.67) suroboyo; urgency=low
 
 blankon-desktop (9.00.66) suroboyo; urgency=low
 
-  * Change to Kernel 3.12-1 
+  * Change to Kernel 3.12-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 23 Dec 2013 06:42:59 +0700
 
@@ -796,7 +802,7 @@ blankon-desktop (9.00.61) suroboyo; urgency=low
 
 blankon-desktop (9.00.60) suroboyo; urgency=low
 
-  * Change to Kernel 3.11-2 
+  * Change to Kernel 3.11-2
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 25 Nov 2013 18:05:00 +0700
 
@@ -829,8 +835,8 @@ blankon-desktop (9.00.56) suroboyo; urgency=low
 
 blankon-desktop (9.00.55) suroboyo; urgency=low
 
-  * Add libreoffice-l10n-id 
-  
+  * Add libreoffice-l10n-id
+
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 08 Nov 2013 08:30:13 +0700
 
 blankon-desktop (9.00.54) suroboyo; urgency=low
@@ -902,12 +908,12 @@ blankon-desktop (9.00.44) suroboyo; urgency=low
 
 blankon-desktop (9.00.43) suroboyo; urgency=low
 
-  * Confilicts : 
+  * Confilicts :
     - xfce4-power-manager
     - xfce4-power-manager-plugins
     - xfce4-power-manager-data
     - xfce4-battery-plugin.
-  
+
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 26 Oct 2013 07:46:45 +0700
 
 blankon-desktop (9.00.42) suroboyo; urgency=low
@@ -936,19 +942,19 @@ blankon-desktop (9.00.40) suroboyo; urgency=low
 
 blankon-desktop (9.00.39) suroboyo; urgency=low
 
-  * Change to kernel 3.11-1 
+  * Change to kernel 3.11-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 21 Oct 2013 08:49:24 +0700
 
 blankon-desktop (9.00.38) suroboyo; urgency=low
 
   * Change back to Kernel 3.10-3
-  
+
  -- princeofgiri <princeofgiri@di.blankon.in>  Sun, 20 Oct 2013 13:56:35 +0700
 
 blankon-desktop (9.00.37) suroboyo; urgency=low
 
-  * Change arch 
+  * Change arch
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 15 Oct 2013 21:41:46 +0700
 
@@ -984,7 +990,7 @@ blankon-desktop (9.00.32) suroboyo; urgency=low
 
 blankon-desktop (9.00.31) suroboyo; urgency=low
 
-  * Update kernel to 3.10-3 
+  * Update kernel to 3.10-3
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 12 Sep 2013 06:57:29 +0700
 
@@ -1009,9 +1015,9 @@ blankon-desktop (9.00.27) suroboyo; urgency=low
 
 blankon-desktop (9.00.26) suroboyo; urgency=low
 
-  * depends remove pa-applet 
+  * depends remove pa-applet
   * restore xfce4-power-manager to depends
-  
+
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 28 Jul 2013 19:54:03 +0700
 
 blankon-desktop (9.00.25) suroboyo; urgency=low
@@ -1040,7 +1046,7 @@ blankon-desktop (9.00.22) suroboyo; urgency=low
 
 blankon-desktop (9.00.21) suroboyo; urgency=low
 
-  * Change: Kernel to 3.9-1 
+  * Change: Kernel to 3.9-1
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 11 Jul 2013 10:59:15 +0700
 
@@ -1088,13 +1094,13 @@ blankon-desktop (9.00.14) suroboyo; urgency=low
 
 blankon-desktop (9.00.13) suroboyo; urgency=low
 
-  * Drop rote-language-pack* 
+  * Drop rote-language-pack*
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 12 Apr 2013 19:45:07 +0700
 
 blankon-desktop (9.00.12) suroboyo; urgency=low
 
-  * Drop gnome-sushi 
+  * Drop gnome-sushi
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 31 Mar 2013 08:56:23 +0700
 
@@ -1136,7 +1142,7 @@ blankon-desktop (9.00.06) suroboyo; urgency=low
 
 blankon-desktop (9.00.05) suroboyo; urgency=low
 
-  * Update linux version 3.2.0-4 
+  * Update linux version 3.2.0-4
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 29 Sep 2012 06:59:17 +0700
 
@@ -1210,7 +1216,7 @@ blankon-desktop (8.00.125) rote; urgency=low
 blankon-desktop (8.00.124) rote; urgency=low
 
   * Added broadcom-sta-dkms, broadcom-sta-source
-  
+
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 05 Aug 2012 00:52:44 +0700
 
 blankon-desktop (8.00.123) rote; urgency=low
@@ -1270,7 +1276,7 @@ blankon-desktop (8.00.115) rote; urgency=low
 
 blankon-desktop (8.00.114) rote; urgency=low
 
-  * Remove systemd	
+  * Remove systemd
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 14 Jul 2012 10:51:10 +0700
 
@@ -1361,7 +1367,7 @@ blankon-desktop (8.00.100) rote; urgency=low
 
 blankon-desktop (8.00.99) rote; urgency=low
 
-  *Change Recomends to Depends 
+  *Change Recomends to Depends
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 04 Jun 2012 21:00:38 +0700
 
@@ -1453,7 +1459,7 @@ blankon-desktop (8.00.85) rote; urgency=low
 
 blankon-desktop (8.00.84) rote; urgency=low
 
-  * Remove firmware-intelwimax firmware-myricom firmware-netxen 
+  * Remove firmware-intelwimax firmware-myricom firmware-netxen
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 16 May 2012 13:25:44 +0700
 
@@ -1484,7 +1490,7 @@ blankon-desktop (8.00.80) rote; urgency=low
 
 blankon-desktop (8.00.79) rote; urgency=low
 
-  * Added cups 
+  * Added cups
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 13 May 2012 01:48:26 +0700
 
@@ -1502,7 +1508,7 @@ blankon-desktop (8.00.76) rote; urgency=low
 
 blankon-desktop (8.00.75) rote; urgency=low
 
-  * Added gdebi	
+  * Added gdebi
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 06 May 2012 22:15:55 +0700
 
@@ -1533,7 +1539,7 @@ blankon-desktop (8.00.71) rote; urgency=low
 
 blankon-desktop (8.00.70) rote; urgency=low
 
-  * Added rote-language-pack-id, blankon-language-pack-id 
+  * Added rote-language-pack-id, blankon-language-pack-id
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 19 Apr 2012 16:19:32 +0000
 
@@ -1569,13 +1575,13 @@ blankon-desktop (8.00.64) rote; urgency=low
 
 blankon-desktop (8.00.63) rote; urgency=low
 
-  * blankon-metacity-configuration, blankon-branding-gnome-control-center, blankon-branding-lightdm 
+  * blankon-metacity-configuration, blankon-branding-gnome-control-center, blankon-branding-lightdm
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 29 Mar 2012 21:06:35 +0700
 
 blankon-desktop (8.00.62) rote; urgency=low
 
-  * Remove gnome-tweak-tool 
+  * Remove gnome-tweak-tool
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 29 Mar 2012 18:32:17 +0700
 
@@ -1621,7 +1627,7 @@ blankon-desktop (8.00.56) rote; urgency=low
 blankon-desktop (8.00.55) rote; urgency=low
 
   * Remove rote-contextual-desktop-theme,
-  
+
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 12 Mar 2012 08:24:38 +0700
 
 blankon-desktop (8.00.54) rote; urgency=low
@@ -1629,7 +1635,7 @@ blankon-desktop (8.00.54) rote; urgency=low
   * Added linux-headers-3.2.0-1-amd64
   * Added linux-headers-3.2.0-1-pae
   * Remove linux-headers-3.2.0-2-amd64
-  * Remove linux-headers-3.2.0-2-pae 
+  * Remove linux-headers-3.2.0-2-pae
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 11 Mar 2012 21:15:19 +0700
 
@@ -1658,7 +1664,7 @@ blankon-desktop (8.00.51) rote; urgency=low
 
 blankon-desktop (8.00.50) rote; urgency=low
 
-  * Added rote-language-pack-id 
+  * Added rote-language-pack-id
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 04 Mar 2012 12:21:05 +0700
 
@@ -1676,13 +1682,13 @@ blankon-desktop (8.00.48) rote; urgency=low
 
 blankon-desktop (8.00.47) rote; urgency=low
 
-  * Added rote-contextual-desktop-theme 
+  * Added rote-contextual-desktop-theme
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 01 Mar 2012 19:33:24 +0700
 
 blankon-desktop (8.00.46) rote; urgency=low
 
-  * Added locales, blankon-gksu-configuration 
+  * Added locales, blankon-gksu-configuration
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 24 Feb 2012 15:51:56 +0000
 
@@ -1700,7 +1706,7 @@ blankon-desktop (8.00.43) rote; urgency=low
 
 blankon-desktop (8.00.42) rote; urgency=low
 
-  * Remove transmision-gtk 
+  * Remove transmision-gtk
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 18 Feb 2012 09:28:22 +0700
 
@@ -1724,7 +1730,7 @@ blankon-desktop (8.00.39) rote; urgency=low
 
 blankon-desktop (8.00.38) rote; urgency=low
 
-  * Remove blankon-branding-gimp, blankon-branding-inkscape 
+  * Remove blankon-branding-gimp, blankon-branding-inkscape
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 15 Feb 2012 17:33:21 +0700
 
@@ -1737,13 +1743,13 @@ blankon-desktop (8.00.37) rote; urgency=low
 blankon-desktop (8.00.36) rote; urgency=low
 
   * remove exaile
-  * added audacious 
+  * added audacious
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 11 Feb 2012 10:42:35 +0700
 
 blankon-desktop (8.00.35) rote; urgency=low
 
-  * commit scim-tables-indonesian & ttf-indonesian 
+  * commit scim-tables-indonesian & ttf-indonesian
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 10 Feb 2012 11:23:31 +0700
 
@@ -1756,7 +1762,7 @@ blankon-desktop (8.00.34) rote; urgency=low
 blankon-desktop (8.00.33) rote; urgency=low
 
   * Added scim-indonesian-tables, frimware-atheros, frimware-bnx2, frimware-bnx2x, frimware-brcm80211, frimware-intelwimax, frimware-ipw2x00, frimware-ivtv, frimware-iwlwifi, frimware-libertas, frimware-linux-nonfree, frimware-linux, frimware-myricom, frimware-netxen, frimware-glogic, frimware-ralink, frimware-realtek
-  
+
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 09 Feb 2012 07:01:02 +0700
 
 blankon-desktop (8.00.32) rote; urgency=low
@@ -1791,13 +1797,13 @@ blankon-desktop (8.00.28) rote; urgency=low
 
 blankon-desktop (8.00.27) rote; urgency=low
 
-  * Added menu 
+  * Added menu
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 31 Jan 2012 22:00:20 +0700
 
 blankon-desktop (8.00.26) rote; urgency=low
 
-  * Added gnome-format, nautilus-script-manager, nautilus-actions, nautilus-ideviceinfo, libparted0 
+  * Added gnome-format, nautilus-script-manager, nautilus-actions, nautilus-ideviceinfo, libparted0
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 31 Jan 2012 20:15:42 +0700
 
@@ -1816,7 +1822,7 @@ blankon-desktop (8.00.24) rote; urgency=low
 
 blankon-desktop (8.00.23) rote; urgency=low
 
-  * Added blankon-branding-gimp, blankon-branding-inkscaper, blankon-branding-libreoffice, blankon-branding-exaile, blankon-branding-pidgin 
+  * Added blankon-branding-gimp, blankon-branding-inkscaper, blankon-branding-libreoffice, blankon-branding-exaile, blankon-branding-pidgin
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 28 Jan 2012 23:02:03 +0700
 
