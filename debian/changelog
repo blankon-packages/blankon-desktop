@@ -1,3 +1,9 @@
+blankon-desktop (10.00.99) tambora; urgency=medium
+
+  * Build support armhf
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sat, 03 Sep 2016 15:23:10 +0700
+
 blankon-desktop (10.00.98) tambora; urgency=medium
 
   * Fix typo package name xserver-fbdev
