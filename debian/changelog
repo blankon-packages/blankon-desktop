@@ -1,3 +1,9 @@
+blankon-desktop (10.00.100) tambora; urgency=medium
+
+  * Drop export brltty 
+
+ -- Rahman Yusri Aftian <aftian@localhost>  Tue, 20 Sep 2016 19:20:10 +0700
+
 blankon-desktop (10.00.99) tambora; urgency=medium
 
   * Build support armhf
