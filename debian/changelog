@@ -1,3 +1,9 @@
+blankon-desktop (10.00.102) tambora; urgency=medium
+
+  * Change kernel to 4.7.0-1
+
+ -- Rahman Yusri Aftian <aftian@blankon.id>  Sat, 22 Oct 2016 20:28:51 +0700
+
 blankon-desktop (10.00.101) tambora; urgency=medium
 
   * Add synaptic
