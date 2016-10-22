@@ -1,3 +1,9 @@
+blankon-desktop (10.00.101) tambora; urgency=medium
+
+  * Add synaptic
+
+ -- Rahman Yusri Aftian <aftian@blankon.id>  Sat, 22 Oct 2016 07:17:42 +0700
+
 blankon-desktop (10.00.100) tambora; urgency=medium
 
   * Drop export brltty 
