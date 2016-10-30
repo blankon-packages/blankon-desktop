@@ -1,3 +1,9 @@
+blankon-desktop (10.00.104) tambora; urgency=medium
+
+  * Add cryptsetup
+
+ -- Rahman Yusri Aftian <aftian@blankon.id>  Sun, 30 Oct 2016 15:54:03 +0700
+
 blankon-desktop (10.00.103) tambora; urgency=medium
 
   * Change kernel to 4.6.4
