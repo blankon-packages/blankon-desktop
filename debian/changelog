@@ -1,3 +1,9 @@
+blankon-desktop (10.00.106) tambora; urgency=medium
+
+  * Change to 4.6.0
+
+ -- Rahman Yusri Aftian <aftian@blankon.id>  Sun, 06 Nov 2016 20:26:36 +0700
+
 blankon-desktop (10.00.105) tambora; urgency=medium
 
   * Change to kernel 4.8.0
