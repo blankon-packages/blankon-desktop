@@ -1,3 +1,9 @@
+blankon-desktop (10.00.107) tambora; urgency=medium
+
+  * Add blankon-panduan
+
+ -- Rahman Yusri Aftian <aftian@blankon.id>  Fri, 30 Dec 2016 21:52:41 +0700
+
 blankon-desktop (10.00.106) tambora; urgency=medium
 
   * Change to 4.6.0
