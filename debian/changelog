@@ -1,3 +1,10 @@
+blankon-desktop (10.00.108) uluwatu; urgency=medium
+
+  * Change to linux-headers-4.9.0-3-amd64
+  * Not support i386
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Thu, 11 May 2017 15:43:32 +0800
+
 blankon-desktop (10.00.107) tambora; urgency=medium
 
   * Add blankon-panduan
