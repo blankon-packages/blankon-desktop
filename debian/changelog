@@ -1,3 +1,14 @@
+blankon-desktop (10.00.109) uluwatu; urgency=medium
+
+  * Change depends bluez-gstreamer to bluez
+  * Change gstreamer0.10-pulseaudio to gst-plugins-good1.0
+  * Change gcalctool to gnome-calculator
+  * Change gstreamer0.10-plugins-base-apps to gst-plugins-base1.0
+  * Change gstreamer0.10-alsa to gst-plugins-base1.0
+  * Change appstream-data to appstream
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Sat, 13 May 2017 21:31:11 +0800
+
 blankon-desktop (10.00.108) uluwatu; urgency=medium
 
   * Change to linux-headers-4.9.0-3-amd64
