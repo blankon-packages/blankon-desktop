@@ -1,3 +1,9 @@
+blankon-desktop (10.00.111) uluwatu; urgency=medium
+
+  * Change gst-plugins-* to gstreamer0.1 and gstreamer1.0
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Sat, 20 May 2017 00:18:13 +0800
+
 blankon-desktop (10.00.110) uluwatu; urgency=medium
 
   * Removed california
