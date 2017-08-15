@@ -1,3 +1,9 @@
+blankon-desktop (10.00.112) uluwatu; urgency=medium
+
+  * Add gnome-control-center to depends
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Tue, 15 Aug 2017 23:52:34 +0800
+
 blankon-desktop (10.00.111) uluwatu; urgency=medium
 
   * Change gst-plugins-* to gstreamer0.1 and gstreamer1.0
