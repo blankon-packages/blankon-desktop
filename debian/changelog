@@ -1,3 +1,9 @@
+blankon-desktop (10.00.114) uluwatu; urgency=medium
+
+  * Rebuild
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Sat, 26 Aug 2017 13:27:36 +0800
+
 blankon-desktop (10.00.113) uluwatu; urgency=medium
 
   * Remove gstreamer0.1 in depends
