@@ -1,3 +1,9 @@
+blankon-desktop (10.00.116) uluwatu; urgency=medium
+
+  * Remove depends pulseaudio-module-x11, gnome-codec-install, in blankon-media
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Sat, 26 Aug 2017 16:54:36 +0800
+
 blankon-desktop (10.00.115) uluwatu; urgency=medium
 
   * Remove gstreamer1.0 in depends
