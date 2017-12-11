@@ -1,3 +1,9 @@
+blankon-desktop (10.00.117) uluwatu; urgency=medium
+
+  * Upgrade linux to 4.14
+
+ -- antosamalona <ansamsoftdev@gmail.com>  Mon, 11 Dec 2017 14:26:03 +0800
+
 blankon-desktop (10.00.116) uluwatu; urgency=medium
 
   * Remove depends pulseaudio-module-x11, gnome-codec-install, in blankon-media

@@ -17,7 +17,7 @@ Description: The BlankOn desktop system
 
 Package: blankon-kernel-headers
 Architecture: amd64
-Depends: linux-headers-4.9.0-3-amd64 [amd64], linux-image-4.9.0-3-amd64 [amd64]
+Depends: linux-headers-4.14.0-1-amd64 [amd64], linux-image-4.14.0-1-amd64 [amd64]
 Description: The BlankOn kernel
  This package depends on all of the packages in the BlankOn kernel headers desktop system
  .
