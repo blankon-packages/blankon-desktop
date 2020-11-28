@@ -1,3 +1,10 @@
+blankon-desktop (10.00.122) verbeek; urgency=medium
+
+  * Update kernel to 5.9.0-1
+  * test for verbeek
+
+ -- Hanhan Husna <matcherapy@gmail.com>  Sat, 28 Nov 2020 10:37:26 +0700
+
 blankon-desktop (10.00.121) uluwatu; urgency=medium
 
   * Remove geo-blankon-peta
