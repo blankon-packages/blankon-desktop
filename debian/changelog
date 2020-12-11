@@ -1,3 +1,9 @@
+blankon-desktop (10.00.123) verbeek; urgency=medium
+
+  * drop manokwari-theme-greeter
+
+ -- Hanhan Husna <matcherapy@gmail.com>  Fri, 11 Dec 2020 22:08:43 +0700
+
 blankon-desktop (10.00.122) verbeek; urgency=medium
 
   * Update kernel to 5.9.0-1
